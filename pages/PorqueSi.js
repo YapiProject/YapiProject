@@ -14,7 +14,7 @@ function PorqueSi() {
                     </div>
                     <h3 className="text-2xl font-bold text-blue-800 mb-6">Nuestra Filosofía</h3>
                     <p className="text-lg text-gray-700 leading-relaxed">
-                        Somos una empresa que intenta buscar la solución en cualquier problema que el cliente tenga. 
+                        Somos una empresa dedicada a encontrar la solución para cualquiera de sus necesidades. 
                         Con la ayuda mutua de nosotros 3, haremos que el cliente tenga la mejor experiencia y la ayuda 
                         que está buscando, e incluso una comodidad con el resultado que le hemos brindado.
                     </p>
